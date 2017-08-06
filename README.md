@@ -29,7 +29,7 @@ Field                   | Description
 **name**                | Name of the Contact Sensor
 **state**               | state command.  Example: ./check_state.sh
 
-The state command should return the following terms: CONTACT_NOT_DETECTED (sensor is opened, CONTACT_DETECTED (sensor is closed)
+The state command should return the following terms: `CONTACT_NOT_DETECTED` (sensor is opened), `CONTACT_DETECTED` (sensor is closed)
 
 
 ## Thanks
