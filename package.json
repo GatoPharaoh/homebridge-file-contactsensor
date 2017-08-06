@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-file-contactsensor",
+  "version": "0.0.1",
+  "description": "File Contact Sensor plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin",
+    "contactsensor",
+    "file-sensor"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "GatoPharaoh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GatoPharaoh/homebridge-file-contactsensor.git"
+  },
+  "dependencies": {}
+}

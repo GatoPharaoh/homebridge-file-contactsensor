@@ -1,0 +1,18 @@
+{
+	"bridge": {
+		"name": "Homebridge",
+		"username": "AA:BB:CC:DD:EE:11",
+		"port": 50000,
+		"pin": "012-34-567"
+	},
+
+
+	"accessories": [
+
+		{
+			"accessory": "FileCoSensor",
+			"name": "Window",
+			"state": "sh /home/pi/State.sh"
+		}
+	]
+}
