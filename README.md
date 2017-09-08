@@ -8,7 +8,7 @@ This plugin will be exposed in HomeKit as a contact sensor of your choice. At th
 ## Installation
 
 1. Install homebridge using: `npm install -g homebridge`
-2. Install this plugin using: `sudo npm install -g https://github.com/GatoPharaoh/homebridge-file-contactsensor`
+2. Install this plugin using: `npm install -g https://github.com/GatoPharaoh/homebridge-file-contactsensor`
 3. Update your configuration file. See `config.json` in this repository for a sample.
 
 ## Configuration
